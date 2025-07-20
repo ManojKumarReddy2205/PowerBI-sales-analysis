@@ -65,5 +65,5 @@ The goal of this dashboard is to analyze and visualize sales performance across 
 - Creating interactive reports for **stakeholder analysis**
 
 ---
-
+https://github.com/ManojKumarReddy2205/PowerBI-sales-analysis/blob/main/Sales_Data-2024/Sales%20Report.png?raw=true
 
