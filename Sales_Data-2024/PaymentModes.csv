@@ -1,0 +1,5 @@
+PaymentMode,Description
+Credit Card,Paid using card
+Net Banking,Internet banking
+UPI,Mobile UPI payment
+Cash,Cash on delivery

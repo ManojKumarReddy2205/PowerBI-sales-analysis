@@ -1,0 +1,11 @@
+StoreID,StoreName,City,Region,StoreType
+3001,Store 1,Denniston,North,Online
+3002,Store 2,North Zacharyhaven,North,Online
+3003,Store 3,Port Sydney,South,Online
+3004,Store 4,Thomaschester,West,Online
+3005,Store 5,Hickmanstad,North,Online
+3006,Store 6,South Patriciaport,North,Online
+3007,Store 7,Mcdanielhaven,North,Retail
+3008,Store 8,North William,North,Retail
+3009,Store 9,Townsendview,North,Online
+3010,Store 10,North Jamesborough,South,Online
